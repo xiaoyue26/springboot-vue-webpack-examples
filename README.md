@@ -3,6 +3,7 @@ springboot+vue+webpack+gradle 示例
 
 1. 配置gradle wrapper
 下载gradle-2.14.1-all.zip
+https://services.gradle.org/distributions/gradle-2.14.1-all.zip
 
 2. build
 ```shell
